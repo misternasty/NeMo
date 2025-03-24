@@ -1,5 +1,5 @@
 attrdict
-cdifflib==1.2.6
+cdifflib==1.2.9
 einops
 janome
 jieba
